@@ -1,0 +1,11 @@
+import math
+a = math.sqrt(16)
+print(a)
+b = math.ceil(154.23)
+print(b)
+c = math.floor(981.86)
+print(c)
+d = math.copysign(105, -284)
+print(d)
+e = math.gcd(1024, 4000)
+print(e)
